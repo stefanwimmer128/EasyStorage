@@ -1,0 +1,4 @@
+[submodule "site"]
+	path = site
+	url = git@github.com:stefanwimmer128/EasyStorage.git
+	branch = gh-pages
