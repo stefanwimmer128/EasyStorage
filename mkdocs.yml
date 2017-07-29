@@ -1,0 +1,44 @@
+copyright: Copyright (c) 2017, Stefan Wimmer
+edit_uri: blob/master/docs/
+extra:
+    feature:
+        tabs: true
+    palette:
+        primary: light blue
+        accent: indigo
+    social:
+        -
+            type: github
+            link: https://github.com/stefanwimmer128
+markdown_extensions:
+    - admonition
+    - codehilite:
+        linenums: true
+    - extra
+    - pymdownx.arithmatex
+    - pymdownx.betterem:
+        smart_enable: all
+    - pymdownx.caret
+    - pymdownx.critic
+    - pymdownx.emoji:
+        emoji_generator: !!python/name:pymdownx.emoji.to_svg
+    - pymdownx.inlinehilite
+    - pymdownx.magiclink
+    - pymdownx.mark
+    - pymdownx.smartsymbols
+    - pymdownx.superfences
+    - pymdownx.tasklist:
+        custom_checkbox: true
+    - pymdownx.tilde
+    - toc:
+        permalink: true
+pages:
+    - EasyStorage: index.md
+repo_name: stefanwimmer128/EasyStorage
+repo_url: https://github.com/stefanwimmer128/EasyStorage
+site_description: Easily store and load serializable objects, List's and Map's.
+site_author: stefanwimmer128
+site_name: EasyStorage
+site_url: https://stefanwimmer128.github.io/EasyStorage
+strict: true
+theme: material
