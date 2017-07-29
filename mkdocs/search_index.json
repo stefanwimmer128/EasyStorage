@@ -1,0 +1,14 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "EasyStorage\n\n\nEasily store and load serializable objects, List's and Map's.", 
+            "title": "EasyStorage"
+        }, 
+        {
+            "location": "/#easystorage", 
+            "text": "Easily store and load serializable objects, List's and Map's.", 
+            "title": "EasyStorage"
+        }
+    ]
+}
