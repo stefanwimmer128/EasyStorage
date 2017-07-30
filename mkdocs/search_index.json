@@ -2,12 +2,12 @@
     "docs": [
         {
             "location": "/", 
-            "text": "EasyStorage\n\n\nEasily store and load serializable objects, List's and Map's.", 
+            "text": "EasyStorage\n\n\n\n\nPre-release version only\n\n\nThis project only contains pre-release versions. Use with caution.\n\n\n\n\nEasily store and load serializable objects, List's and Map's.", 
             "title": "EasyStorage"
         }, 
         {
             "location": "/#easystorage", 
-            "text": "Easily store and load serializable objects, List's and Map's.", 
+            "text": "Pre-release version only  This project only contains pre-release versions. Use with caution.   Easily store and load serializable objects, List's and Map's.", 
             "title": "EasyStorage"
         }
     ]
