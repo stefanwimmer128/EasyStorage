@@ -35,3 +35,13 @@ dependencies {
     compile "org.jetbrains.kotlin:kotlin-reflect:${kotlin}"
     compile "org.jetbrains.kotlin:kotlin-stdlib-jre8:${kotlin}"
 }
+
+task sources(type: Jar) {
+    from sourceSets.main.kotlin
+    
+    classifier = "sources"
+}
+
+artifacts {
+    archives sources
+}
